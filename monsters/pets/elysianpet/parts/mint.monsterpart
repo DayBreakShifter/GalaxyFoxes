@@ -1,0 +1,8 @@
+{
+  "name" : "mint",
+  "category" : "elysianpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "mint.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 10 },
+    { "item" : "leather", "count" : 3 },
+    { "item" : "silk", "count" : 1 },
+    { "item" : "keystoneore", "count" : 3 },
+    { "item" : "fusedchest", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "fusedpluschest", "count" : 1 },
+  "groups" : [ "craftinganvil3", "armours", "all" ]
+}

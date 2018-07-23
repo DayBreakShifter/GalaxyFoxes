@@ -1,0 +1,49 @@
+{
+  "objectName" : "flageevee",
+  "colonyTags" : ["eevee"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+  
+  "description" : "The flag of the Protectorate. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Eevee Flag",
+  "race" : "eevee",
+  "apexDescription" : "An Eevee flag. I can use this as a waypoint for teleportation.",
+  "avianDescription" : "This Eevee flag can be bookmarked as a destination for my ship teleporter.",
+  "floranDescription" : "Eevee flag makess good point to teleport back to ussing teleporter",
+  "glitchDescription" : "Observant. A small locator module attached to this Eevee flag allows it to be bookmarked for teleportation.",
+  "humanDescription" : "This Eevee flag can be saved as a location for my teleporter. Then I can return to it at any time.",
+  "hylotlDescription" : "This Eevee flag can act as a way point, enabling me to return to this point using a teleporter.",
+  "novakidDescription" : "I can bookmark this Eevee flag for quick teleportin'.",
+  "eeveeDescription" : "My flag serves as a good way point! Easy for me to grab what I need from the ship and get back quickly.",
+  "elysianDescription" : "This Eevee flag allows me to teleport here from my ship. Quite convenient.",
+  "fennixDescription" : "An Eevee flag. Rather dull, if you ask me, if not for the flashiness.",
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+  "inventoryIcon" : "flageeveeicon.png",
+  "orientations" : [
+    {
+      "image" : "flageevee.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "flageevee.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+  //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
+}

@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "keystoneore", "count" : 2 },
+    { "item" : "solidfuel", "count" : 5 },
+    { "item" : "venomsample", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "evonuclearshard",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurnace", "ingredients", "all" ]
+}

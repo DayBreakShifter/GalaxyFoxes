@@ -1,0 +1,28 @@
+[{
+		"op" : "add",
+		"path" : "/species/eevee",
+		"value" : {
+			"aiFrames" : "eeveeAI.png",
+			"portraitFrames" : "portraits/eeveeportrait.png",
+			"staticFrames" : "staticeevee.png"	
+		}
+	},
+{
+		"op" : "add",
+		"path" : "/species/fennix",
+		"value" : {
+			"aiFrames" : "fennixAI.png",
+			"portraitFrames" : "portraits/fennixportrait.png",
+			"staticFrames" : "staticfennix.png"	
+		}
+	},
+{
+		"op" : "add",
+		"path" : "/species/elysian",
+		"value" : {
+			"aiFrames" : "elysianAI.png",
+			"portraitFrames" : "portraits/elysianportrait.png",
+			"staticFrames" : "staticelysian.png"	
+		}
+	}
+]

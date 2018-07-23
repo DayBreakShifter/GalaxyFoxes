@@ -1,0 +1,10 @@
+{
+  "itemName" : "evofirestone",
+  "price" : 5,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "firestone.png",
+  "description" : "An Evolutionary Stone for ^orange;Flareon^white; that lost it's power over the years...",
+  "shortdescription" : "Fire Stone",
+  "itemTags" : [ "reagent" ]
+}

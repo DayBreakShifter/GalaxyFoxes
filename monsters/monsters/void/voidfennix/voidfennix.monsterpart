@@ -1,0 +1,9 @@
+{
+  "name" : "voidfennix",
+  "category" : "voidfennix",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "voidfennix.png"
+  }
+}

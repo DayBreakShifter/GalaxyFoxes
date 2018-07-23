@@ -1,0 +1,39 @@
+{
+  "itemName" : "eeveeoutfit4legs",
+  "price" : 35,
+  "inventoryIcon" : "icons.png:pants",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "legwear",
+  "description" : "Pants that are worn by members of the now disbanded Team Eclipse.",
+  "shortdescription" : "Nightshade Wrappings",
+  "tooltipKind" : "armor",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+  "colorOptions" : [
+    // DEFAULT
+    { "4E5057" : "4E5057", "46474F" : "46474F", "373940" : "373940" },
+    // BLACK
+    { "4E5057" : "838383", "46474F" : "555555", "373940" : "383838" },
+    // GREY
+    { "4E5057" : "b5b5b5", "46474F" : "808080", "373940" : "555555" },
+    // WHITE
+    { "4E5057" : "e6e6e6", "46474F" : "b6b6b6", "373940" : "7b7b7b" },
+    // RED
+    { "4E5057" : "f4988c", "46474F" : "d93a3a", "373940" : "932625" },
+    // ORANGE
+    { "4E5057" : "ffd495", "46474F" : "ea9931", "373940" : "af4e00" },
+    // YELLOW
+    { "4E5057" : "ffffa7", "46474F" : "e2c344", "373940" : "a46e06" },
+    // GREEN
+    { "4E5057" : "b2e89d", "46474F" : "51bd3b", "373940" : "247824" },
+    // BLUE
+    { "4E5057" : "96cbe7", "46474F" : "5588d4", "373940" : "344495" },
+    // PURPLE
+    { "4E5057" : "d29ce7", "46474F" : "a451c4", "373940" : "6a2284" },
+    // PINK
+    { "4E5057" : "eab3db", "46474F" : "d35eae", "373940" : "97276d" },
+    // BROWN
+    { "4E5057" : "ccae7c", "46474F" : "a47844", "373940" : "754c23" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "voidlilodon",
+  "category" : "voidlilodon",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "voidlilodon.png"
+  }
+}

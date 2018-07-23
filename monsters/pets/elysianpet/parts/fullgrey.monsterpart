@@ -1,0 +1,8 @@
+{
+  "name" : "fullgrey",
+  "category" : "elysianpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "fullgrey.png"
+  }
+}

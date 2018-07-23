@@ -1,0 +1,32 @@
+[
+  {
+    "op": "add",
+    "path": "/eeveeStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"item" : [ "eeveesword", 1 ]},
+        {"pool" : "starterTreasure"}
+      ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/elysianStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"item" : [ "elysiansword", 1 ]},
+        {"pool" : "starterTreasure"}
+      ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/fennixStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"item" : [ "fennixsword", 1 ]},
+        {"pool" : "starterTreasure"}
+      ]
+    }]]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name" : "vaporeon",
+  "effectConfig" : {
+    "movementParameters" : {
+      "liquidImpedance" : 0.1,
+      "liquidForce" : 150,
+      "liquidJumpProfile" : {
+        "jumpSpeed" : 150.0
+      }
+    }
+  },
+
+  "scripts" : [
+    "vaporeon.lua"
+  ],
+
+  "label" : "Vaporeon's Gift",
+  "icon" : "/interface/statuses/vaporeon.png"
+}

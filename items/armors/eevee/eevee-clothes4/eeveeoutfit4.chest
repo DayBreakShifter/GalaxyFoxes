@@ -1,0 +1,47 @@
+{
+  "itemName" : "eeveeoutfit4chest",
+  "price" : 75,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "An outfit worn by members of the now disbanded Team Eclipse.",
+  "shortdescription" : "Eclipe Adventurer Shirt",
+  "tooltipKind" : "armor",
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+  "colorOptions" : [
+    // DEFAULT
+    { "32294F" : "32294F", "221B39" : "221B39", "100B24" : "100B24", "E6FFD7" : "1a1c51" },
+    // BLACK
+    { "32294F" : "838383", "221B39" : "555555", "100B24" : "383838", "E6FFD7" : "151515" },
+    // GREY
+    { "32294F" : "b5b5b5", "221B39" : "808080", "100B24" : "555555", "E6FFD7" : "303030" },
+    // WHITE
+    { "32294F" : "e6e6e6", "221B39" : "b6b6b6", "100B24" : "7b7b7b", "E6FFD7" : "373737" },
+    // RED
+    { "32294F" : "f4988c", "221B39" : "d93a3a", "100B24" : "932625", "E6FFD7" : "601119" },
+    // ORANGE
+    { "32294F" : "ffd495", "221B39" : "ea9931", "100B24" : "af4e00", "E6FFD7" : "6e2900" },
+    // YELLOW
+    { "32294F" : "ffffa7", "221B39" : "e2c344", "100B24" : "a46e06", "E6FFD7" : "642f00" },
+    // GREEN
+    { "32294F" : "b2e89d", "221B39" : "51bd3b", "100B24" : "247824", "E6FFD7" : "144216" },
+    // BLUE
+    { "32294F" : "96cbe7", "221B39" : "5588d4", "100B24" : "344495", "E6FFD7" : "1a1c51" },
+    // PURPLE
+    { "32294F" : "d29ce7", "221B39" : "a451c4", "100B24" : "6a2284", "E6FFD7" : "320c40" },
+    // PINK
+    { "32294F" : "eab3db", "221B39" : "d35eae", "100B24" : "97276d", "E6FFD7" : "59163f" },
+    // BROWN
+    { "32294F" : "ccae7c", "221B39" : "a47844", "100B24" : "754c23", "E6FFD7" : "472b13" }
+  ]
+}

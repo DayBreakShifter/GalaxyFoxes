@@ -1,0 +1,8 @@
+{
+  "name" : "red",
+  "category" : "eeveepet",
+  "type" : "body",
+  "frames" : {
+    "body" : "red.png"
+  }
+}

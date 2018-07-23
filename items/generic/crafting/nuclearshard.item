@@ -1,0 +1,10 @@
+{
+  "itemName" : "evonuclearshard",
+  "price" : 5,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "nuclearshard.png",
+  "description" : "An Evolutionary Stone for ^orange;Nucleon^white; that lost it's power over the years...",
+  "shortdescription" : "Nuclear Shard",
+  "itemTags" : [ "reagent" ]
+}

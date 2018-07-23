@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 6 },
+    { "item" : "cottonwool", "count" : 1 },
+    { "item" : "keystoneore", "count" : 3 },
+    { "item" : "eeviumhead", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "eeviumplushead", "count" : 1 },
+  "groups" : [ "craftinganvil", "armours", "all" ]
+}

@@ -1,0 +1,60 @@
+{
+  "objectName" : "gf_ancientauroran",
+  "colonyTags" : ["outpost","commerce"],
+  "rarity" : "Common",
+  "category" : "other",
+  "description" : "One of the last of their race, hiding in isolation.",
+  "shortdescription" : "Ancient Auroran",
+  "race" : "generic",
+  "printable" : false,
+
+  "apexDescription" : "Why would someone just stand on top of this place for who knows how long?",
+  "avianDescription" : "Whoever this merchant is, they give me a bad feeling...",
+  "floranDescription" : "Floran isss curious about ssstrange human.",
+  "glitchDescription" : "Uneasy. This person's stare is ice cold...",
+  "humanDescription" : "Uh... I don't know what to feel about this guy.",
+  "hylotlDescription" : "I don't want to stay up here any longer than I have to...",
+  "novakidDescription" : "This weapon dealer gives me a bad feelin'.",
+  "eeveeDescription" : "Who the heck is this guy? They deal in powerful weapons, so that's something.",
+  "fennixDescription" : "I don't want to be up here any longer than I have to...",
+  "elysianDescription" : "I thought all of the Aurorans were wiped out. Guy even sells their tech.",
+
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/merchant.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Ancient Auroran",
+        "subtitle" : "Sells Auroran Weapons"
+      }
+    },
+    "buyFactor" : 1.0,
+    "sellFactor" : 1.0,
+    "items" : [
+      { "item" : { "name" : "keystoneore" } },
+
+      { "item" : { "name" : "youshouldntevenhavethis" }, "prerequisiteQuest" : "human_mission1" }
+    ]
+  },
+  "lightColor" : [195, 110, 215],
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "ancientauroran.png:<color>.<frame>", "fullbright" : true }, { "image" : "ancientauroranlit.png:<color>.<frame>" } ],
+      "direction" : "left",
+
+      "lightPosition" : [0, 0],
+
+      "imagePosition" : [-98, 0],
+      "frames" : 0,
+      "animationCycle" : 4.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "uniqueId" : "gf_ancientauroran"
+}

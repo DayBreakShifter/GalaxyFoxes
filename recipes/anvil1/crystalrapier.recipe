@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "evokeystone", "count" : 2 },
+    { "item" : "durasteelbar", "count" : 5 },
+    { "item" : "evosunstone", "count" : 5 },
+    { "item" : "refinedviolium", "count" : 3 },
+    { "item" : "solariumstar", "count" : 3 },
+    { "item" : "refinedferozium", "count" : 3 },
+    { "item" : "brokenprotectoratebroadsword", "count" : 1 }
+  ],
+  "output" : { "item" : "crystalrapier", "count" : 1 },
+  "groups" : [ "craftinganvil", "weapons", "all" ]
+}

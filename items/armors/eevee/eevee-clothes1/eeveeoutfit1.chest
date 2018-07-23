@@ -1,0 +1,47 @@
+{
+  "itemName" : "eeveeoutfit1chest",
+  "price" : 0,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "A shirt with the Protectorate insignia on it. Outfitted for Eevees in specific.",
+  "shortdescription" : "Protectorate Shirt",
+  "tooltipKind" : "armor",
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+  "colorOptions" : [
+    // DEFAULT
+    { "5CBFFF" : "96cbe7", "398FCA" : "5588d4", "125C90" : "344495" },
+    // BLACK
+    { "5CBFFF" : "838383", "398FCA" : "555555", "125C90" : "383838" },
+    // GREY
+    { "5CBFFF" : "b5b5b5", "398FCA" : "808080", "125C90" : "555555" },
+    // WHITE
+    { "5CBFFF" : "e6e6e6", "398FCA" : "b6b6b6", "125C90" : "7b7b7b" },
+    // RED
+    { "5CBFFF" : "f4988c", "398FCA" : "d93a3a", "125C90" : "932625" },
+    // ORANGE
+    { "5CBFFF" : "ffd495", "398FCA" : "ea9931", "125C90" : "af4e00" },
+    // YELLOW
+    { "5CBFFF" : "ffffa7", "398FCA" : "e2c344", "125C90" : "a46e06" },
+    // GREEN
+    { "5CBFFF" : "b2e89d", "398FCA" : "51bd3b", "125C90" : "247824" },
+    // BLUE
+    { "5CBFFF" : "96cbe7", "398FCA" : "5588d4", "125C90" : "344495" },
+    // PURPLE
+    { "5CBFFF" : "d29ce7", "398FCA" : "a451c4", "125C90" : "6a2284" },
+    // PINK
+    { "5CBFFF" : "eab3db", "398FCA" : "d35eae", "125C90" : "97276d" },
+    // BROWN
+    { "5CBFFF" : "ccae7c", "398FCA" : "a47844", "125C90" : "754c23" }
+  ]
+}

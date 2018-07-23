@@ -1,0 +1,59 @@
+{
+  "objectName" : "eeveetechstation",
+  "colonyTags" : ["eevee"],
+  "printable" : false,
+  "rarity" : "Common",
+  "interactAction" : "OpenAiInterface",
+  "category" : "decorative",
+  "lightColor" : [210, 160, 255],
+  "lightPosition" : [-1, 0],
+  "description" : "Wireless Networking Electronic Rationale, or WINTER for short.",
+  "shortdescription" : "W.I.N.T.E.R.",
+  "race" : "eevee",
+  "apexDescription" : "The WINTER model of S.A.I.L. can be talked through using this.",
+  "avianDescription" : "I can use this station to talk to WINTER.",
+  "floranDescription" : "Floran use thisss magic panel to talk to WINTER",
+  "glitchDescription" : "Happy. This station allows me to talk to WINTER.",
+  "humanDescription" : "This station allows me to communicate with WINTER.",
+  "hylotlDescription" : "This console allows me to communicate with WINTER.",
+  "novakidDescription" : "This here station let's me talk with WINTER.",
+  "eeveeDescription" : "This station lets me talk to Winter. They're very cute, too!",
+  "inventoryIcon" : "eeveetechstationicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "eeveetechstation.png:<color>.<frame>", "fullbright" : true }, { "image" : "eeveetechstationlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, -8],
+      "frames" : 8,
+      "animationCycle" : 3.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  "offeredQuests" : [ "gaterepair" ],
+  "animation" : "/objects/ship/techstation.animation",
+  "scripts" : [
+    "/objects/spawner/techstation.lua"
+  ],
+  "scriptDelta" : 20,
+  "shipPetType" : "eeveepet",
+  "spawnOffset" : [2, -1],
+  "chatPortrait" : "/ai/portraits/eeveeportrait.png:yell.1",
+  "dialog" : {
+    "wakeUp" : [
+      [ "Rebooting...", "/ai/portraits/eeveeportrait.png:unique.5" ],
+      [ "I-I'm Winter, or your Wireless Networking Electronic Rationale.", "/ai/portraits/eeveeportrait.png:talk.0" ],
+      [ "I also do my best to help you with advice.", "/ai/portraits/eeveeportrait.png:talk.1" ],
+      [ "Earth... Is unfortunately gone...", "/ai/portraits/eeveeportrait.png:talk.0" ],
+      [ "We're at least here, but the ship got damaged in the process..", "/ai/portraits/eeveeportrait.png:talk.1" ]
+    ],
+    "wakePlayer" : [
+      [ "System is down, please reboot.", "/ai/portraits/eeveeportrait.png:refuse.0"],
+      [ "Please reboot the system.", "/ai/portraits/eeveeportrait.png:refuse.0"],
+      [ "Reboot process remains uninitiated.", "/ai/portraits/eeveeportrait.png:refuse.0"],
+      [ "For Winter to be active, please reboot.", "/ai/portraits/eeveeportrait.png:refuse.0" ],
+      [ "It's a lot easier to interact with the ship with Winter's help.", "/ai/portraits/eeveeportrait.png:refuse.0"],
+      [ "Rebooting requires a conscious entity to interact with Winter.", "/ai/portraits/eeveeportrait.png:refuse.0" ]
+    ]
+  },
+  "uniqueId" : "techstation"
+}

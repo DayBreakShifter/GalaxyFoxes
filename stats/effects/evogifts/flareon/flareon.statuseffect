@@ -1,0 +1,12 @@
+{
+  "name" : "flareon",
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "flareon.lua"
+  ],
+
+  "label" : "Flareon's Gift",
+  "icon" : "/interface/statuses/flareon.png"
+}

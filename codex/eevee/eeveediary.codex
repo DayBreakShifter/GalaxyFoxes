@@ -1,0 +1,15 @@
+{
+	"id" : "eeveediary",
+	"title" : "Survivors Log",
+	"description" : "The diary of a lost soul.",
+	"icon" : "pokedex1.png",
+	"contentPages" : [
+    "I'm recording this as memory of the last of the evolving Eeveelutions. I am Jack. Mediocre name, I know. But that's besides the point. I'm the last of the evolved Eeveelutions. After my passing, the Eevee species will have progressively increasing lifespans as well as a closer relationship to the other species.",
+	"The Eevee species started out as quadruped Pokemon native to Earth. Over the last thousand years, we have gotten closer to being like avians, having the ability to stand on two legs and speak the human language. And soon after, we lost the ability to evolve. Over time, our numbers dwindled until all that was left was a single Jolteon.
+	Me."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

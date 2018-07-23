@@ -1,0 +1,9 @@
+{
+  "name" : "adultvoidtop",
+  "category" : "adultvoidtop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "adultvoidtop.png"
+  }
+}

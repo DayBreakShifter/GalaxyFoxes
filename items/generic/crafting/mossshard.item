@@ -1,0 +1,10 @@
+{
+  "itemName" : "evomossshard",
+  "price" : 5,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "mossshard.png",
+  "description" : "An Evolutionary Stone for ^orange;Leafeon^white; that lost it's power over the years...",
+  "shortdescription" : "Moss Shard",
+  "itemTags" : [ "reagent" ]
+}

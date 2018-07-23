@@ -1,0 +1,9 @@
+{
+  "name" : "voidgleap",
+  "category" : "voidgleap",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "voidgleap.png"
+  }
+}

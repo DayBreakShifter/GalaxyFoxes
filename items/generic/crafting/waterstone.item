@@ -1,0 +1,10 @@
+{
+  "itemName" : "evowaterstone",
+  "price" : 5,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "waterstone.png",
+  "description" : "An Evolutionary Stone for ^orange;Vaporeon^white; that lost it's power over the years...",
+  "shortdescription" : "Water Stone",
+  "itemTags" : [ "reagent" ]
+}

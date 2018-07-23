@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "corefragmentore", "count" : 2 },
+    { "item" : "evoneoarcanestone", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "neokahead",
+    "count" : 1
+  },
+  "groups" : [ "poketransport", "neoka", "all" ]
+}

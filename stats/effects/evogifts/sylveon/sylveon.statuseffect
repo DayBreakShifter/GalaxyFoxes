@@ -1,0 +1,13 @@
+{
+  "name" : "sylveon",
+
+  "effectConfig" : {
+    "healTime" : 120
+  },
+  "scripts" : [
+    "sylveon.lua"
+  ],
+
+  "label" : "Sylveon's Gift",
+  "icon" : "/interface/statuses/sylveon.png"
+}

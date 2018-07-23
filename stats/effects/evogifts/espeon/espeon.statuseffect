@@ -1,0 +1,13 @@
+{
+  "name" : "espeon",
+  "effectConfig" : {
+    "gravityModifier" : 0.35
+  },
+
+  "scripts" : [
+    "espeon.lua"
+  ],
+
+  "label" : "Espeon's Gift",
+  "icon" : "/interface/statuses/espeon.png"
+}

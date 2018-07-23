@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "evoprettyribbon", "count" : 5 },
+    { "item" : "purpledye", "count" : 3 },
+    { "item" : "blackdye", "count" : 1 },
+    { "item" : "evoneoarcanestone", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "neokalegs",
+    "count" : 1
+  },
+  "groups" : [ "poketransport", "neoka", "all" ]
+}

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 1 },
+    { "item" : "fabric", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "flageevee",
+    "count" : 1
+  },
+  "groups" : [ "plain", "all" ]
+}

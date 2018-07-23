@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "keystoneore", "count" : 2 },
+    { "item" : "solidfuel", "count" : 5 },
+    { "item" : "liquidlava", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "evofirestone",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurnace", "ingredients", "all" ]
+}

@@ -1,0 +1,5 @@
+[
+//	{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "eevee" }
+//	{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "eevee" }, { "op" : "add", "path" : "/speciesOrdering/-", "value" : "fennix" }
+	{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "eevee" }, { "op" : "add", "path" : "/speciesOrdering/-", "value" : "elysian" }, { "op" : "add", "path" : "/speciesOrdering/-", "value" : "fennix" }
+]

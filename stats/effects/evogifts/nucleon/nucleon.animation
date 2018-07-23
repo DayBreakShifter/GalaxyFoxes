@@ -1,0 +1,10 @@
+{
+  "lights" : {
+    "umbreon" : {
+      "active" : true,
+      "position" : [0, 0],
+      "color" : [170, 255, 102],
+      "pointLight" : true
+    }
+  }
+}

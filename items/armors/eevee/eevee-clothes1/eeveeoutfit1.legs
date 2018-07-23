@@ -1,0 +1,40 @@
+{
+  "itemName" : "eeveeoutfit1legs",
+  "price" : 0,
+  "type" : "Legs",
+  "inventoryIcon" : "icons.png:pants",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "legwear",
+  "description" : "Pants with the legs rolled up. They're too long, otherwise.",
+  "shortdescription" : "Roll-up Jeans",
+  "tooltipKind" : "armor",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+  "colorOptions" : [
+    // DEFAULT
+    { "7898B4" : "7898B4", "547998" : "547998", "254A6A" : "254A6A" },
+    // BLACK
+    { "7898B4" : "838383", "547998" : "555555", "254A6A" : "383838" },
+    // GREY
+    { "7898B4" : "b5b5b5", "547998" : "808080", "254A6A" : "555555" },
+    // WHITE
+    { "7898B4" : "e6e6e6", "547998" : "b6b6b6", "254A6A" : "7b7b7b" },
+    // RED
+    { "7898B4" : "f4988c", "547998" : "d93a3a", "254A6A" : "932625" },
+    // ORANGE
+    { "7898B4" : "ffd495", "547998" : "ea9931", "254A6A" : "af4e00" },
+    // YELLOW
+    { "7898B4" : "ffffa7", "547998" : "e2c344", "254A6A" : "a46e06" },
+    // GREEN
+    { "7898B4" : "b2e89d", "547998" : "51bd3b", "254A6A" : "247824" },
+    // BLUE
+    { "7898B4" : "96cbe7", "547998" : "5588d4", "254A6A" : "344495" },
+    // PURPLE
+    { "7898B4" : "d29ce7", "547998" : "a451c4", "254A6A" : "6a2284" },
+    // PINK
+    { "7898B4" : "eab3db", "547998" : "d35eae", "254A6A" : "97276d" },
+    // BROWN
+    { "7898B4" : "ccae7c", "547998" : "a47844", "254A6A" : "754c23" }
+  ]
+}

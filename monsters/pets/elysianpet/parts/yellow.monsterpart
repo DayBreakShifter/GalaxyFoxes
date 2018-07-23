@@ -1,0 +1,8 @@
+{
+  "name" : "yellow",
+  "category" : "elysianpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "yellow.png"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name" : "nucleon",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "nucleonpoison.lua"
+  ],
+
+  "animationConfig" : "nucleon.animation",
+
+  "label" : "Nucleon",
+  "icon" : "/interface/statuses/nucleon.png"
+}

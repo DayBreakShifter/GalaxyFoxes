@@ -1,0 +1,10 @@
+{
+  "itemName" : "spiritstone",
+  "price" : 5,
+  "rarity" : "Legendary",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "spiritstone.png",
+  "description" : "The ability to twist reality itself to the users will.",
+  "shortdescription" : "Spirit Stone",
+  "itemTags" : [ "reagent" ]
+}

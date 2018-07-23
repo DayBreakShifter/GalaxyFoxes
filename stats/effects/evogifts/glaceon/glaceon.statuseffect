@@ -1,0 +1,11 @@
+{
+  "name" : "glaceon",
+  "effectConfig" : {},
+
+  "scripts" : [
+    "glaceon.lua"
+  ],
+
+  "label" : "Glaceon's Gift",
+  "icon" : "/interface/statuses/glaceon.png"
+}

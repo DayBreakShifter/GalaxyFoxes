@@ -1,0 +1,10 @@
+{
+  "itemName" : "evosunstone",
+  "price" : 5,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "sunstone.png",
+  "description" : "An Evolutionary Stone for ^orange;Espeon^white; that lost it's power over the years...",
+  "shortdescription" : "Sun Stone",
+  "itemTags" : [ "reagent" ]
+}

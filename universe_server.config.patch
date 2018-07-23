@@ -1,0 +1,47 @@
+[
+  {
+    "op": "add",
+    "path": "/speciesShips/eevee",
+    "value": [
+      "/ships/eevee/eeveet0.structure",
+      "/ships/eevee/eeveet1.structure",
+      "/ships/eevee/eeveet2.structure",
+      "/ships/eevee/eeveet3.structure",
+      "/ships/eevee/eeveet4.structure",
+      "/ships/eevee/eeveet5.structure",
+      "/ships/eevee/eeveet6.structure",
+      "/ships/eevee/eeveet7.structure",
+      "/ships/eevee/eeveet8.structure"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/speciesShips/elysian",
+    "value": [
+      "/ships/elysian/elysiant0.structure",
+      "/ships/elysian/elysiant1.structure",
+      "/ships/elysian/elysiant2.structure",
+      "/ships/elysian/elysiant3.structure",
+      "/ships/elysian/elysiant4.structure",
+      "/ships/elysian/elysiant5.structure",
+      "/ships/elysian/elysiant6.structure",
+      "/ships/elysian/elysiant7.structure",
+      "/ships/elysian/elysiant8.structure"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/speciesShips/fennix",
+    "value": [
+      "/ships/fennix/fennixt0.structure",
+      "/ships/fennix/fennixt1.structure",
+      "/ships/fennix/fennixt2.structure",
+      "/ships/fennix/fennixt3.structure",
+      "/ships/fennix/fennixt4.structure",
+      "/ships/fennix/fennixt5.structure",
+      "/ships/fennix/fennixt6.structure",
+      "/ships/fennix/fennixt7.structure",
+      "/ships/fennix/fennixt8.structure"
+    ]
+  }
+]

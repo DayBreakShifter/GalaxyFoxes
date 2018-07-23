@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "keystoneore", "count" : 2 },
+    { "item" : "evokeystone", "count" : 1 },
+    { "item" : "solidfuel", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "evoneoarcanestone",
+    "count" : 3
+  },
+  "groups" : [ "craftingfurnace", "bars", "all" ]
+}

@@ -1,0 +1,135 @@
+[
+	{
+		"op":"add",
+		"path":"/-",
+		"value": {
+			"name" : "voidtop",
+
+			"spawnParameters" : {
+			  "area" : "air",
+			  "region" : "all",
+			  "time" : "all"
+			},
+			"groupSize" : [1, 1],
+			"spawnChance" : 0.02,
+			"monsterType" : "voidtop",
+			"monsterParameters" : {
+			  "aggressive" : false
+			}
+		}
+	},
+	{
+		"op":"add",
+		"path":"/-",
+		"value": {
+			"name" : "adultvoidtop",
+
+			"spawnParameters" : {
+			  "area" : "air",
+			  "region" : "all",
+			  "time" : "all"
+			},
+			"groupSize" : [1, 1],
+			"spawnChance" : 0.02,
+			"monsterType" : "adultvoidtop",
+			"monsterParameters" : {
+			  "aggressive" : false
+			}
+		}
+	},
+	{
+		"op":"add",
+		"path":"/-",
+		"value": {
+			"name" : "voidfennix",
+
+			"spawnParameters" : {
+			  "area" : "air",
+			  "region" : "all",
+			  "time" : "all"
+			},
+			"groupSize" : [1, 1],
+			"spawnChance" : 0.02,
+			"monsterType" : "voidfennix",
+			"monsterParameters" : {
+			  "aggressive" : false
+			}
+		}
+	},
+	{
+		"op":"add",
+		"path":"/-",
+		"value": {
+			"name" : "voidgleap",
+
+			"spawnParameters" : {
+			  "area" : "air",
+			  "region" : "all",
+			  "time" : "all"
+			},
+			"groupSize" : [1, 1],
+			"spawnChance" : 0.02,
+			"monsterType" : "voidgleap",
+			"monsterParameters" : {
+			  "aggressive" : false
+			}
+		}
+	},
+	{
+		"op":"add",
+		"path":"/-",
+		"value": {
+			"name" : "voidwisper",
+
+			"spawnParameters" : {
+			  "area" : "air",
+			  "region" : "all",
+			  "time" : "all"
+			},
+			"groupSize" : [1, 1],
+			"spawnChance" : 0.02,
+			"monsterType" : "voidwisper",
+			"monsterParameters" : {
+			  "aggressive" : false
+			}
+		}
+	},
+	{
+		"op":"add",
+		"path":"/-",
+		"value": {
+			"name" : "voidlilodon",
+
+			"spawnParameters" : {
+			  "area" : "air",
+			  "region" : "all",
+			  "time" : "all"
+			},
+			"groupSize" : [1, 1],
+			"spawnChance" : 0.02,
+			"monsterType" : "voidlilodon",
+			"monsterParameters" : {
+			  "aggressive" : false
+			}
+		}
+	},
+	{
+		"op":"add",
+		"path":"/-",
+		"value": {
+			"name" : "voideevee",
+
+			"spawnParameters" : {
+			  "area" : "air",
+			  "region" : "all",
+			  "time" : "all"
+			},
+			"groupSize" : [1, 1],
+			"spawnChance" : 0.02,
+			"monsterType" : "voideevee",
+			"monsterParameters" : {
+			  "aggressive" : false
+			}
+		}
+	}
+]

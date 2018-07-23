@@ -1,0 +1,74 @@
+{
+  "objectName" : "evostation",
+  "colonyTags" : [],
+  "rarity" : "Legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/crafting.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Evolution Equipment",
+        "subtitle" : "Create evolutionary stones from scratch if you need to!",
+        "icon" : {
+          "file" : "/interface/crafting/neoarcanestone.png"
+        }
+      }
+    },
+    "filter" : [ "evostation" ]
+  },
+  "printable" : false,
+  "description" : "Used to create Evolutionary Stones.",
+  "shortdescription" : "^#d82020;E^#e86c29;v^#ff8e1e;o^#ffa81c;l^#ffd728;u^#f7ff2b;t^#aeff00;i^#2bc600;o^#00ce74;n ^#00f4e4;E^#009ef4;q^#0843d8;u^#0703c1;i^#3b02cc;p^#9c01cc;m^#d000d3;e^#ff30d2;n^#e02382;t^reset;",
+  "race" : "generic",
+  "category" : "crafting",
+  "learnBlueprintsOnPickup" : ["sunstone","moonevostone","thunderstone","waterstone","firestone","iceshard","mossshard","prettyribbon","keystone","neoarcanestone"],
+  "price" : 160,
+
+  "lightColor" : [77, 110, 128],
+  "lightPosition" : [0, 1],
+
+  "flickerPeriod" : 0.8,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1.00,
+  "flickerPeriodVariance" : 0.0,
+  "flickerIntensityVariance" : 0.0,
+
+  "apexDescription" : "placeholder",
+  "avianDescription" : "placeholder",
+  "floranDescription" : "Odd sstation hass great potential..",
+  "glitchDescription" : "Observent. This piece of equipment is overflowing with radiation.",
+  "humanDescription" : "This can be used to make things like Firestones and Pretty Ribbons!",
+  "hylotlDescription" : "Interesting.. It appears that this can be used to make powered crystals.",
+  "novakidDescription" : "This something to help me make those items the foxes used to use to transform!",
+  "eeveetwoDescription" : "Something to help me create evolutionary items, however I can't use them myself.",
+
+  "inventoryIcon" : "evostationicon.png",
+
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "evostation.png:<color>.<frame>", "fullbright" : true }, { "image" : "evostation.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "frames" : 8,
+      "animationCycle" : 0.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "evostation.png:<color>.<frame>", "fullbright" : true }, { "image" : "evostation.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "right",
+
+      "frames" : 8,
+      "animationCycle" : 1.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

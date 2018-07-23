@@ -1,0 +1,13 @@
+{
+  "name" : "ragevee",
+  "effectConfig" : {
+    "powerModifier" : 3.50
+  },
+
+  "scripts" : [
+    "ragevee.lua"
+  ],
+
+  "label" : "Ragevee",
+  "icon" : "/interface/statuses/berserk.png"
+}

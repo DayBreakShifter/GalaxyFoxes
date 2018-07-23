@@ -1,0 +1,8 @@
+{
+  "name" : "black",
+  "category" : "fennixpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "black.png"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name" : "gf_void",
+  "friendlyName" : "void",
+
+  "spawnProfile" : {
+    "groups" : [
+      {
+        "select" : 9,
+        "pool" : [
+          [ 1.0, "voidtop" ],
+		  [ 1.0, "adultvoidtop" ],
+          [ 1.0, "voidfennix" ],
+          [ 1.0, "voidgleap" ],
+		  [ 1.0, "voidwisper" ],
+		  [ 1.0, "voidlilodon" ],
+		  [ 1.0, "voideevee" ]
+        ]
+      }
+    ],
+    "monsterParameters" : {
+      "colors" : "garden"
+    }
+  },
+
+  "hueShiftOptions" : [-30, -20, -15, -10, -5, 0, 5, 10, 15, 20, 30],
+
+  "weather" : [
+    [0, [
+      "/weather.config:clear"
+    ]]
+  ],
+
+  "skyOptions" : [
+    {
+      "mainColor" : [255, 255, 255],
+
+      "morningColors" : [ [152, 152, 152], [128, 128, 128] ],
+      "dayColors" : [ [255, 255, 255], [255, 255, 225] ],
+      "eveningColors" : [ [128, 128, 128], [152, 152, 152] ],
+      "nightColors" : [ [55, 55, 55, 255], [55, 55, 55, 255] ],
+
+      "morningLightColor" : [255, 255, 255],
+      "dayLightColor" : [255, 255, 255],
+      "eveningLightColor" : [255, 255, 255],
+      "nightLightColor" : [255, 255, 255]
+    }
+
+  ],
+
+  "mainBlock" : "voiddirt",
+  "subBlocks" : [ "voidcobblestone", "voidmud" ],
+  "ores" : "void",
+
+  "parallax" : "/parallax/surface/garden.parallax",
+
+  "ambientNoises" : {
+    "day" : {
+      "tracks" : [ "/sfx/environmental/arid_day.ogg" ]
+    },
+    "night" : {
+      "tracks" : [ "/sfx/environmental/arid_night.ogg" ]
+    }
+  },
+
+  "musicTrack" : {
+    "day" : {
+      "tracks" : [ "/music/jupiter.ogg", "/music/arctic-constellation1.ogg", "/music/arctic-constellation2.ogg", "/music/mercury.ogg", "/music/mira.ogg", "/music/cygnus-x1.ogg", "/music/tranquility-base.ogg", "/music/accretion-disc.ogg", "/music/horsehead-nebula.ogg","/music/psyche.ogg", "/music/large-magellanic-cloud.ogg", "/music/m54.ogg", "/music/nomads.ogg", "/music/on-the-beach-at-night.ogg" ]
+    },
+    "night" : {
+      "tracks" : [ "/music/jupiter.ogg", "/music/arctic-constellation1.ogg", "/music/arctic-constellation2.ogg", "/music/mercury.ogg", "/music/mira.ogg", "/music/tranquility-base.ogg", "/music/accretion-disc.ogg", "/music/horsehead-nebula.ogg", "/music/psyche.ogg", "/music/large-magellanic-cloud.ogg", "/music/m54.ogg", "/music/nomads.ogg", "/music/on-the-beach-at-night.ogg" ]
+    }
+  },
+
+  "surfacePlaceables" : {
+    "grassMod" : [ "voidgrass" ],
+    "grassModDensity" : 0.9,
+
+    "items" : [ ]
+  },
+
+  "undergroundPlaceables" : {
+    "items" : [ ]
+  }
+}

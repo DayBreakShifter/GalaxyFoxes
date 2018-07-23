@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "keystoneore", "count" : 2 },
+    { "item" : "solidfuel", "count" : 5 },
+    { "item" : "fabric", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "evoprettyribbon",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurnace", "ingredients", "all" ]
+}

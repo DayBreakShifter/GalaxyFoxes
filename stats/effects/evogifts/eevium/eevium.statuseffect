@@ -1,0 +1,23 @@
+{
+  "name" : "eevium",
+  "effectConfig" : {
+    "gravityModifier" : 0.35,
+    "regenBonusAmount" : 75,
+    "healTime" : 120,
+    "movementParameters" : {
+      "liquidImpedance" : 0.1,
+      "liquidForce" : 150,
+      "liquidJumpProfile" : {
+        "jumpSpeed" : 150.0 }
+      }
+  },
+  
+  "scripts" : [
+    "eeviumespeon.lua", "eeviumflareon.lua", "eeviumglaceon.lua", "eeviumjolteon.lua", "eeviumleafeon.lua", "eeviumnucleon.lua", "eeviumsylveon.lua", "eeviumumbreon.lua", "eeviumvaporeon.lua"
+  ],
+
+  "animationConfig" : "eevium.animation",
+
+  "label" : "Power of the Celesteon",
+  "icon" : "/interface/statuses/energyregen.png"
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "voidtop",
+  "category" : "voidtop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "voidtop.png"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "evoneoarcanestone",
+  "price" : 5,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "neoarcanestone.png",
+  "description" : "Part of 'neo-arcane science', this mega stone forces Pokemon that are able to mega evolve to, as well as forcing the Pokemon under the user's control.",
+  "shortdescription" : "Mega Wave Key Stone",
+  "itemTags" : [ "reagent" ]
+}

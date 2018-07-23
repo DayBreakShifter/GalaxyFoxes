@@ -1,0 +1,10 @@
+{
+  "itemName" : "keystoneore",
+  "price" : 120,
+  "rarity" : "Rare",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "keystoneore.png",
+  "description" : "Keystone ore. Can be imbued into different things to add elemental properties.",
+  "shortdescription" : "Keystone Ore",
+  "itemTags" : [ "reagent" ]
+}

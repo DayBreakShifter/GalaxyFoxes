@@ -1,0 +1,14 @@
+{
+  "name" : "umbreon",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "umbreon.lua"
+  ],
+
+  "animationConfig" : "umbreon.animation",
+
+  "label" : "Umbreon",
+  "icon" : "/interface/statuses/umbreon.png"
+}

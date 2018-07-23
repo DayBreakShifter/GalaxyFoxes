@@ -1,0 +1,10 @@
+{
+  "itemName" : "evokeystone",
+  "price" : 5,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "keystone.png",
+  "description" : "A mysterious gemstone that allows certain species of Pokemon to Mega Evolve.",
+  "shortdescription" : "Key Stone",
+  "itemTags" : [ "reagent" ]
+}

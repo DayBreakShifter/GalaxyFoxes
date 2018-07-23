@@ -1,0 +1,28 @@
+{
+  "itemName" : "devastatorgreatsword",
+  "price" : 1270,
+  "level" : 10,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Wielded by the embodiment of armageddon, this sword can erase an entire world if wielded by it's original owner.",
+  "shortdescription" : "Devastator Greatsword",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "devastatorgreatsword.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "devastatorgreatsword.png"
+  },
+  "animationCustom" : { },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "physical",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.89,
+    "baseDps" : 55
+  },
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

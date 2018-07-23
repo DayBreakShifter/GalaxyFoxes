@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "silk", "count" : 3 },
+    { "item" : "evoprettyribbon", "count" : 1 },
+    { "item" : "purpledye", "count" : 1 },
+    { "item" : "evoneoarcanestone", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "neokachest",
+    "count" : 1
+  },
+  "groups" : [ "poketransport", "neoka", "all" ]
+}

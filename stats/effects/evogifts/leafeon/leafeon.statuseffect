@@ -1,0 +1,13 @@
+{
+  "name" : "leafeon",
+  "effectConfig" : {
+    "regenBonusAmount" : 75
+  },
+  
+  "scripts" : [
+    "leafeonenergy.lua", "leafeonpoison.lua"
+  ],
+
+  "label" : "Leafeon's Gift",
+  "icon" : "/interface/statuses/energyregen.png"
+}

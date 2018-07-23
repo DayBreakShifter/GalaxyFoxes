@@ -1,0 +1,11 @@
+{
+  "name" : "jolteon",
+  "effectConfig" : {},
+
+  "scripts" : [
+    "jolteon.lua"
+  ],
+
+  "label" : "Jolteon's Gift",
+  "icon" : "/interface/statuses/jolteon.png"
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "voidwisper",
+  "category" : "voidwisper",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "voidwisper.png"
+  }
+}

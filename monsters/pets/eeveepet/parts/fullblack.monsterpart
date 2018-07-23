@@ -1,0 +1,8 @@
+{
+  "name" : "fullblack",
+  "category" : "eeveepet",
+  "type" : "body",
+  "frames" : {
+    "body" : "fullblack.png"
+  }
+}

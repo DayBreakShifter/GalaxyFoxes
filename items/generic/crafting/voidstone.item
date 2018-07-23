@@ -1,0 +1,10 @@
+{
+  "itemName" : "voidstone",
+  "price" : 5,
+  "rarity" : "Legendary",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "voidstone.png",
+  "description" : "A Spirit Stone that had the power stolen from it. Though it has gained a new power.",
+  "shortdescription" : "Void Stone",
+  "itemTags" : [ "reagent" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "evoprettyribbon",
+  "price" : 5,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "prettyribbon.png",
+  "description" : "An Evolutionary Object for ^orange;Sylveon^white; that lost it's power over the years...",
+  "shortdescription" : "Pretty Ribbon",
+  "itemTags" : [ "reagent" ]
+}

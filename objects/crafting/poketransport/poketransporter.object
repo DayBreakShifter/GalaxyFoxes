@@ -1,0 +1,74 @@
+{
+  "objectName" : "poketransporter",
+  "colonyTags" : [],
+  "rarity" : "Legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/crafting.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Transport Station",
+        "subtitle" : "Send items to someone to be combined into armor, weapons, and materials.",
+        "icon" : {
+          "file" : "/interface/crafting/poketransporter.png"
+        }
+      }
+    },
+    "filter" : [ "poketransport" ]
+  },
+  "printable" : false,
+  "description" : "Used to create Pokemon Exclusive equipment and materials.",
+  "shortdescription" : "^red;Transport Station^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "learnBlueprintsOnPickup" : ["evolutionchest","evolutionhead","evolutionlegs","evostation","evostation2","invisiblechest","invisiblehead","invisiblelegs","neckfloof","neokachest","neokachestfloof","neokahead","neokalegs","shadpendantfloof","shadveependant"],
+  "price" : 160,
+
+  "lightColor" : [77, 110, 128],
+  "lightPosition" : [0, 1],
+
+  "flickerPeriod" : 0.8,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1.00,
+  "flickerPeriodVariance" : 0.0,
+  "flickerIntensityVariance" : 0.0,
+
+  "apexDescription" : "placeholder",
+  "avianDescription" : "placeholder",
+  "floranDescription" : "placeholder",
+  "glitchDescription" : "placeholder",
+  "humanDescription" : "placeholder",
+  "hylotlDescription" : "placeholder",
+  "novakidDescription" : "placeholder",
+  "eeveetwoDescription" : "With this, I can create things like Eevenite and the Eeveelution Armor.",
+
+  "inventoryIcon" : "poketransportericon.png",
+
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "poketransporter.png:<color>.<frame>", "fullbright" : true }, { "image" : "poketransporter.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "frames" : 8,
+      "animationCycle" : 0.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "poketransporter.png:<color>.<frame>", "fullbright" : true }, { "image" : "poketransporter.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "right",
+
+      "frames" : 8,
+      "animationCycle" : 0.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

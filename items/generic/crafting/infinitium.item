@@ -1,0 +1,10 @@
+{
+  "itemName" : "youshouldntevenhavethiswhattheheckareyouevendoingmatethisisjustaplaceholder",
+  "price" : 2147483647,
+  "rarity" : "Legendary",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "infinitium.png",
+  "description" : "You shouldn't even have this, what are you even doing?",
+  "shortdescription" : "You shouldn't have this.",
+  "itemTags" : [ "unobtainable", "whattheheckman" ]
+}

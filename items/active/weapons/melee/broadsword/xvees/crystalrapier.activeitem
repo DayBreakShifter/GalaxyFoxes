@@ -1,0 +1,28 @@
+{
+  "itemName" : "crystalrapier",
+  "price" : 1270,
+  "level" : 10,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Wielded by the embodiment of rebirth, this rapier can cut through darkness itself if wielded by it's original wielder.",
+  "shortdescription" : "Crystal Rapier",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "crystalrapier.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "crystalrapier.png"
+  },
+  "animationCustom" : { },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "physical",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.89,
+    "baseDps" : 55
+  },
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

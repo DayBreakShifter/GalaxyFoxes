@@ -1,0 +1,10 @@
+{
+  "itemName" : "evomoonstone",
+  "price" : 5,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "moonstone.png",
+  "description" : "An Evolutionary Stone for ^orange;Umbreon^white; that lost it's power over the years...",
+  "shortdescription" : "Moon Stone",
+  "itemTags" : [ "reagent" ]
+}
